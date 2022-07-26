@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:18.6.0-slim
 
 RUN mkdir parse
 
